@@ -49,6 +49,12 @@ $n (\log{n})^3$, $n^{4/3}$, $n^{\log{n}}$, $2^{\sqrt{\log{n}}}$, $2^n$, $2^{n^2}
 
 ### 5.
 
+a) $f(n) = 2$, $g(n) = 1$
+
+b) $f(n) = 2n$, $g(n) = n$
+
+c) $f(n) \leq cg(n) \Rightarrow f(n)^2 \leq c^2g(n)^2$
+
 ### 6.
 
 ### 7.
