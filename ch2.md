@@ -15,13 +15,13 @@ $f(n) = \Theta(g(n)) \Leftrightarrow lim_{n \rightarrow \infty}{f(n)/g(n)}$ су
 
 ### 1.
 
-a) в 4 раза, в $(1 + 1/n)^2$
+a) в 4 раза, в $(1 + \frac{1}{n})^2$
 
-b) в 8 раз, в $(1 + 1/n)^3$
+b) в 8 раз, в $(1 + \frac{1}{n})^3$
 
-c) в 4 раза, в $(1+1/n^2)$
+c) в 4 раза, в $(1+\frac{1}{n})^2$
 
-d) в $2\frac{\log{2n}}{\log{n}}$, в $\frac{\log{n+1}}{\log{n}} + \frac{\log{n+1}}{n\log{n}}$
+d) в $2\frac{\log{2n}}{\log{n}}$, в $\frac{\log{(n+1)}}{\log{n}} + \frac{\log{(n+1)}}{n\log{n}}$
 
 e) в $2^n$ раз, в 2 раза
 
