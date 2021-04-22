@@ -4,10 +4,10 @@
 
 ### Определение 1.
 
-$f(n) = O(g(n)) \Leftrightarrow \exist c \in \mathbb{R}, n_0 \in \mathbb{N}$
+$f(n) = O(g(n)) \Leftrightarrow \exists c \in \mathbb{R}, n_0 \in \mathbb{N}$
 такие что $f(n) \leq cg(n)$ $\forall n > n_0$.
 
-$f(n) = \Omega(g(n)) \Leftrightarrow \exist c \in \mathbb{R}, n_0 \in \mathbb{N}$ такие что $f(n) \geq cg(n)$ $\forall n > n_0$.
+$f(n) = \Omega(g(n)) \Leftrightarrow \exists c \in \mathbb{R}, n_0 \in \mathbb{N}$ такие что $f(n) \geq cg(n)$ $\forall n > n_0$.
 
 $f(n) = \Theta(g(n)) \Leftrightarrow lim_{n \rightarrow \infty}{f(n)/g(n)}$ существует и не равен нулю.
 
